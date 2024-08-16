@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "acs-example1",
+  "private_key_id": "84bf305355594314effc1b28e2d4c7c8f2a811e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDxuXtM97edVZt\n34sIFupqAvQXFmh7QwldatOGAvpgBx2SK1SuGp6JYYdFybqv7UnyWioEDWKhPyic\n1dhx+29szysnw73lmHLXgh5YsP2RHQsKy0zK7E8wvzA9KzppyQMKmu079kYRrLfv\nHtYhBWv562UCNDx/dKa7aiSSiCckFLW3qloQhTMAuHiH3NnYioDA7oKlnDO9AezF\ndP2rCyG67fyQaquECE7zpN4NnpTz+kXL3bCuDTEegw9efOWHTfwQ8A0TZfnNL5Ss\nEjn7C88uSRAKBIR3ZJP0EikGy4yjY6DTeW35jXQ0j+AbQ0/9WyeD8EN0lS67p1IA\nx/1wJcqPAgMBAAECggEACMmS2hpgM9DFP/hETQV8hGv1oHdxLzstOwskEqCk0HHU\n33VujVI9xjp907bqyhO6eZRek91uKbnkSWK+uxPjsUrD4Uj8h6qeysRR4dNaIr60\nJZEptS48gUUg8jl6/wEaJTwapKdOB4CCUMtIXt6CYAsW2maHRjAqYUDOV/2gm672\nUvKPN2KG6AFq5zYWQBgNp6Y3ozprW/y2DiOlJMJ0qXQBhjbTYnQHa2H+Ppp6KSef\n+dxB/1EzSPwOC4ZW3+JwdMwgjO721lCHpGe3rnhgS33bYeEpqBn1CdrIfXrQgEq0\nCN4fSreWpmkGSiDyrLqFnaJzC5MAp5vvS8YGZiOCeQKBgQD1vl5paMUKgeRj23Y0\naQPr1SX8ca43fIKlHD8UB2XhKqltJGkpHVYjEuOtxd5Uu8hq5Gq7lE0nnZvaC9yV\nBJ5pt48pHSzwja5u4TT4Gx/OGpfftEbq3MVN7X1H/mf5pEnwRek1AAncwMn1xbDA\nRd9/wJnxXg89moaTRsz2Sqtx1wKBgQDL8qnpB97JJkd2Z0N7HrCTKHPMNNfh7Lj8\nImrJOZ+RhDHytJ5xztElEYk/gacwL3Ph/4LT/WpPsvF0oMlitC/GyVxTOvuNVLx1\n27TiOabKK2JX8NGuSKbrdN2ERdZjiv5B4xBE5FuFt9jTjbzOVjQTFTgfAEEuIqhY\nrb/fhTJGCQKBgAu9g48vpTJCUGIA6x3H4psSvNTZrYQTG769obnYPKLMQfnn4mpH\nb4UPcvcrW9raedG5heveQu1gl0CMjoZECTltvpYtQadgbXP4qGouCY/0L0tNtpGj\n6H03mmOlINyJX8rt3B1fGhmE0GFAh5g3/lyBHBmu77V2u3Uvzbz6hkRTAoGAM61T\nPEbQPqvCY9AamzHVkBQp805YfVicLtcRs9c0BY03ksYNd8zt1bSx0DOsB1uew18Y\n6VpG+9bds62iGa6KhJY1HKnPX6pe7oYzOTdeec+wZZQRrVWfZf4Auylu/14SuuMs\nFii+wA0rlb9OXgIdw9AWnlRUL7p8aavs+FgpuvECgYBWGhd9+7k9nkOMjjmS3AOS\nrZUrt/Y4zYXIHcxWq/eQEQgE5spgVuy4reLj3VkWAArCVZbmLWeP3b3DYe94wqab\nafUoYw/ev+wDBoZ6DV5KumCrVd8bfNf8GSEF9SbweLEFQqLHMcb7xWwuUCr73e+C\nRd70rPT4UfCBLjhKN5M3xg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "videointelservice@acs-example1.iam.gserviceaccount.com",
+  "client_id": "105650171761517868646",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/videointelservice%40acs-example1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
