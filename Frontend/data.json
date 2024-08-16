@@ -1,0 +1,36 @@
+{
+    "data": [
+      {
+        "timeTaken": "2sec",
+        "joyful": [
+          {
+            "id": 1,
+            "url": "https://res.cloudinary.com/demo/image/upload/c_thumb,g_face,h_200,w_200/r_max/f_auto/woman-blackdress-stairs.png"
+          }
+        ],
+        "anger": [
+          {
+            "id": 2,
+            "url": "https://res.cloudinary.com/demo/image/upload/leather_bag_gray.jpg"
+          }
+        ],
+        "sorrow": [
+          {
+            "id": 3,
+            "url": "https://res.cloudinary.com/demo/image/upload/ar_1.0,c_thumb,g_face,w_0.7/r_max/co_skyblue,e_outline/co_lightgray,e_shadow,x_5,y_8/docs/blue_sweater_model.png"
+          }
+        ],
+        "surprise": [
+          {
+            "id": 4,
+            "url": "https://res.cloudinary.com/demo/image/upload/water-park-aerial-view.jpg"
+          },
+          {
+            "id": 5,
+            "url": "https://res.cloudinary.com/demo/image/upload/v1699883548/water-park-aerial-view.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
